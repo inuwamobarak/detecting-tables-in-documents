@@ -2,6 +2,8 @@
 
 This repository contains code and resources for detecting tables in various types of documents using machine learning and computer vision techniques.
 
+Article link: Pending
+
 ## Introduction
 
 Detecting tables in documents is a common problem in information extraction and document analysis. This project aims to provide tools and solutions to automate the process of identifying and extracting tables from different types of documents, such as PDFs, images, and scanned documents.

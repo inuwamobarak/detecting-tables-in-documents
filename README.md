@@ -2,7 +2,7 @@
 
 This repository contains code and resources for detecting tables in various types of documents using machine learning and computer vision techniques.
 
-Article link: Pending
+Article link: (https://www.analyticsvidhya.com/blog/2023/08/detecting-table-rows-and-columns-in-images-using-transformers/)
 
 ## Introduction
 

@@ -10,6 +10,7 @@ Detecting tables in documents is a common problem in information extraction and 
 
 ## The PubTables-1M Dataset
 PubTables-1M improves table extraction research with scientific article tables. It supports varied input formats, detailed headers, and addresses over-segmentation issues for accurate annotations.
+
 ![images](https://github.com/inuwamobarak/detecting-tables-in-documents/assets/65142149/e2e25965-3bb5-49f1-9531-273402006163)
 
 ## DEtection TRansformer(DETR)
